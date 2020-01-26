@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  TestFramework
 //
-//  Created by qazi on 01/26/2020.
-//  Copyright (c) 2020 qazi. All rights reserved.
+//  Created by qazinaveed87 on 01/26/2020.
+//  Copyright (c) 2020 qazinaveed87. All rights reserved.
 //
 
 import UIKit

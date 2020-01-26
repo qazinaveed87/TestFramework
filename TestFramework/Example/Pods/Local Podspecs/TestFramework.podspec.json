@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of TestFramework.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/qazi/TestFramework",
+  "homepage": "https://github.com/qazinaveed87/TestFramework",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "qazi": "qazi@nextgeni.net"
+    "qazinaveed87": "qazi@nextgeni.net"
   },
   "source": {
-    "git": "https://github.com/qazi/TestFramework.git",
+    "git": "https://github.com/qazinaveed87/TestFramework.git",
     "tag": "0.1.0"
   },
   "platforms": {

@@ -1,6 +1,6 @@
 # TestFramework
 
-[![CI Status](https://img.shields.io/travis/qazi/TestFramework.svg?style=flat)](https://travis-ci.org/qazi/TestFramework)
+[![CI Status](https://img.shields.io/travis/qazinaveed87/TestFramework.svg?style=flat)](https://travis-ci.org/qazinaveed87/TestFramework)
 [![Version](https://img.shields.io/cocoapods/v/TestFramework.svg?style=flat)](https://cocoapods.org/pods/TestFramework)
 [![License](https://img.shields.io/cocoapods/l/TestFramework.svg?style=flat)](https://cocoapods.org/pods/TestFramework)
 [![Platform](https://img.shields.io/cocoapods/p/TestFramework.svg?style=flat)](https://cocoapods.org/pods/TestFramework)
@@ -22,7 +22,7 @@ pod 'TestFramework'
 
 ## Author
 
-qazi, qazi@nextgeni.net
+qazinaveed87, qazi@nextgeni.net
 
 ## License
 

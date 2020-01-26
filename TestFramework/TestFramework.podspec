@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/qazi/TestFramework'
+  s.homepage         = 'https://github.com/qazinaveed87/TestFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'qazi' => 'qazi@nextgeni.net' }
-  s.source           = { :git => 'https://github.com/qazi/TestFramework.git', :tag => s.version.to_s }
+  s.author           = { 'qazinaveed87' => 'qazi@nextgeni.net' }
+  s.source           = { :git => 'https://github.com/qazinaveed87/TestFramework.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
